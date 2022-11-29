@@ -1,0 +1,84 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "tipos-variaveis_cd1484c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "tipos-variaveis_cd1484c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "tipos-variaveis_cd1484c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "tipos-variaveis_cd1484c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercicio",
+            "request": "launch",
+            "mainClass": "Exercicio",
+            "projectName": "tipos-variaveis_cd1484c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadorTernario",
+            "request": "launch",
+            "mainClass": "OperadorTernario",
+            "projectName": "tipos-variaveis_cd1484c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "tipos-variaveis_cd1484c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "tipos-variaveis_cd1484c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tipos_Variaveis",
+            "request": "launch",
+            "mainClass": "Tipos_Variaveis",
+            "projectName": "tipos-variaveis_cd1484c3"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "Usuario",
+            "projectName": "tipos-variaveis_cd1484c3"
+        }
+    ]
+}
